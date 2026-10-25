@@ -1,0 +1,15 @@
+name: Feature request
+description: Suggest a change that would make the project fit your workflow better.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: workflow
+    attributes:
+      label: What are you trying to do?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What would you like to happen?
+      description: A rough idea is enough.

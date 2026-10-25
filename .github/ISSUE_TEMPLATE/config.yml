@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Ask a question
+    url: https://github.com/localtaskrepo/lotar/discussions/categories/q-a
+    about: Questions about any Local Task Repo project are answered in LoTaR Discussions.
+  - name: Report a security problem
+    url: https://github.com/localtaskrepo/.github/blob/main/SECURITY.md
+    about: Please report vulnerabilities privately, not in a public issue.
