@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://localtaskrepo.github.io/lotar/">Homepage</a> ·
   <a href="https://github.com/localtaskrepo/lotar/blob/main/docs/help/index.md">Docs</a> ·
-  <a href="https://github.com/localtaskrepo/lotar/discussions">Discussions</a> ·
+  <a href="https://github.com/localtaskrepo/lotar/discussions">LoTaR Discussions</a> ·
   <a href="https://github.com/localtaskrepo/lotar/releases">Releases</a>
 </p>
 
